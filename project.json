@@ -1,0 +1,20 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "apps-stage.seattletimesdata.com",
+      "path": "sports-slider"
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": "2015/sports/U.S.-Open-Capsules"
+    }
+  },
+  "title": "",
+  "description": "",
+  "url": "",
+  "slug": "",
+  "tags": [],
+  "image": "",
+  "production": false,
+  "sheets": ["1VpBMLzSvOqbkj0js_u3L5dZJGx5SA8YyVB6j3QNEy7c"]
+}
